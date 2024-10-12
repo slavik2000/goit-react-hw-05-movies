@@ -12,7 +12,7 @@ export const ListItem = styled.li`
   padding: 6px;
   max-width: min-content;
   background-color: #2a2a2a;
-  border-radius: 14px;
+  border-radius: 13px;
 
   :not(:last-child) {
     margin-bottom: 6px;
